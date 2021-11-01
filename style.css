@@ -10,7 +10,7 @@ html, body {
 
 }
 .img-background{
-	width: cover;
+	width: 100%;
 	height: cover;
 	position: fixed;
 	filter: brightness(70%);
