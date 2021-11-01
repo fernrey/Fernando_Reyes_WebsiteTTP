@@ -11,7 +11,7 @@ html, body {
 }
 .img-background{
 	width: 100%;
-	height:  auto;
+	height:  100%;
 	position: fixed;
 	filter: brightness(70%);
 	
